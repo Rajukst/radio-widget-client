@@ -1,0 +1,23 @@
+.register-div input{
+    width: 90%;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.158) ;
+
+    border: none;
+    border-radius: 8px;
+    color: white;
+    }
+    .register-continer{
+        background-repeat: no-repeat;
+        background-size: cover;
+     
+        background-image: url(../../Images/radio.jpg);
+        background-color: rgba(0, 0, 0, 0.568) ;
+     
+        margin: auto;
+        height: 100vh;
+        width: 100%;
+    
+        justify-content: center;
+    
+    }
